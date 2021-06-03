@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A continuation of the history of the plot containing a faithful account of what occurred since that intituled, A true relation of the horrid conspiracy against the life of the King. Written by the same hand. With an exact list of all those that were then committed. To which are added, all those committed since to the Tower, Fleet, Newgate, Gate-House, King's-Bench, Marshalsea, and in the custody of messenger's, being in all 323. In another letter to a friend in Oxford.</title>
+         </titleStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80386</idno><idno type="EEBO-CITATION">99896167</idno>
+  <idno type="VID">153880</idno>
+  <idno type="EEBO-PROQUEST">2248584514</idno>
+  
+            <idno type="STC">Wing C5965A</idno>
+            <idno type="STC">ESTC R229403</idno>
+            <idno type="PROQUEST">99896167</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896167e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153880)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2386:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A continuation of the history of the plot containing a faithful account of what occurred since that intituled, A true relation of the horrid conspiracy against the life of the King. Written by the same hand. With an exact list of all those that were then committed. To which are added, all those committed since to the Tower, Fleet, Newgate, Gate-House, King's-Bench, Marshalsea, and in the custody of messenger's, being in all 323. In another letter to a friend in Oxford.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by E. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: B⁴.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:153880:1"/>
+            <pb facs="tcp:153880:1"/>
+            <head>
+               <hi>A Continuation of the <hi>History of the Plot,</hi> CONTAINING</hi> A faithful Account of what occurred since that Intituled, <hi>A true Relation of the horrid Conspiracy against the Life of the King.</hi> Written by the same Hand. With an exact List of all those that were then Committed.</head>
+            <head type="sub">To which are added, <hi>All those Committed since to the</hi> Tower, Fleet, Newgate, Gate-House, King's-Bench, Marshalsea, <hi>and in the Custody of</hi> Messen<g ref="char:EOLhyphen"/>ger<hi>'s, being in all</hi> 323.</head>
+            <head type="sub">In another Letter to a Friend in <hi>Oxford.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs dated the First instant at <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> I received, by which I un<g ref="char:EOLhyphen"/>derstand that mine came to your hands, which contained in sub<g ref="char:EOLhyphen"/>stance, <hi>A true Relation of the most horrid Conspiracy against the Life of the King, with an exact List of such of the Conspirators as were then Committed.</hi> I likewise promi<g ref="char:EOLhyphen"/>sed to acquaint you with what else that should occur of this Nature, and there be<g ref="char:EOLhyphen"/>ing many things of moment happened since, and other Matters transacted before now come to light, this will exactly in<g ref="char:EOLhyphen"/>form you of the whole, to the end you may not be ignorant of the Barbarity and Inhumanity of this Conspiracy, which was contrived not only against the Life of the best of Kings, but also against the <hi>Prote<g ref="char:EOLhyphen"/>stant Religion,</hi> they designing to extirpate the same out of this Kingdom, and to in<g ref="char:EOLhyphen"/>troduce Popery, but this was happily De<g ref="char:EOLhyphen"/>tected by the Generosity of Capt. <hi>Pender<g ref="char:EOLhyphen"/>grass,</hi> who no sooner knew of it; but did immediately communicate it to the Right Honourable the Earl of <hi>Portland,</hi> and tho' he had a Promise not to be made use of as an Evidence, yet he has since very vo<g ref="char:EOLhyphen"/>luntarily given his Evidence, without be<g ref="char:EOLhyphen"/>ing compelled to it. I am also informed, that upon his Discovery he had Promise of Pardon for one more, besides himself, that he should bring in, which some thinks to be Captain <hi>Porter,</hi> whom he prevailed upon to do abundance of Service to the Publick. Much may be said indeed of Monsieur <hi>de la Rue,</hi> who made a Discove<g ref="char:EOLhyphen"/>ry very early, and designed to have done it sooner, if things had been ripe. Here are since several new Evidences, which I shall have occasion to mention hereaf<g ref="char:EOLhyphen"/>ter, <hi>&amp;c.</hi>
+            </p>
+            <p>We find now that the <hi>Lancashire Plot,</hi> if it had been strictly managed, and enqui<g ref="char:EOLhyphen"/>red into, was a real Conspiracy, though those concerned found ways to come off, as it appears by several Circumstances, and it is said, that Gentlemen in that County had made provisions of Arms, <hi>&amp;c.</hi> to further their design: It may be also said, that this was not the first Conspiracy to Assassinate the King here in <hi>England,</hi> if we may be<g ref="char:EOLhyphen"/>lieve the Confession of Capt. <hi>Whi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ner,</hi> the famous High-way man, who was Execu<g ref="char:EOLhyphen"/>ted,
+<pb n="2" facs="tcp:153880:2"/>for upon his Examination, he said. That he, and several others, had resolved to do it, and he offered to come to Par<g ref="char:EOLhyphen"/>ticulars as to the Design then, but that his Breath was stope a little of the soon<g ref="char:EOLhyphen"/>est. All those that have been hitherto Executed, labour to excuse the <hi>French</hi> King, and King <hi>James,</hi> from having any know<g ref="char:EOLhyphen"/>ledge of it, nor the Body of the <hi>Roman Ca<g ref="char:EOLhyphen"/>tholicks;</hi> but Monsieur <hi>Granvall,</hi> who was a Knight of <hi>Malta,</hi> and was Executed in <hi>Flanders,</hi> for designing to kill his Majesty, had more generosity in him, for in his Confession, he says positively, That both King <hi>James,</hi> and his Queen, knew of his Conspiracy, and that he was with them in the Closset, Coll. <hi>Parker</hi> being present, where they promised him great Rewards, and the late Queen in particular said, that she would take care of him; and on the other hand, the <hi>French</hi> Ministers supplied him and Monsieur <hi>Raberti</hi> with money, not without the knowledge of the King their Master, as you may easily judge, what ever the Disaffected Party may say, or pretend, besides all Christian Princes and States are convinced, that the Scheme of the Plot to take away the Life of his Majesty was contrived at <hi>Versailes,</hi> and, in a word, that <hi>Lewis</hi> the 14th. designed to have made use of King <hi>James,</hi> as a proper Instrument to Conquer <hi>England,</hi> and the Dominions thereunto belonging, and by that means to make them Tributaries to him; but he is come short of his ambiti<g ref="char:EOLhyphen"/>ous Expectation, as you shall see before I conclude.</p>
+            <p>Since the Execution of Sir <hi>William Per<g ref="char:EOLhyphen"/>kins</hi> and Sir <hi>J. Frie<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d,</hi> two of the Absolv<g ref="char:EOLhyphen"/>ing Ministers that gave them Absolution are taken and Committed to <hi>New<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, viz. Mr. Cook</hi> and <hi>M. S<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> but <hi>Collier,</hi> the other Non-Jurant Minister that was with them, is fled. <hi>Cook</hi> is upon Record for <hi>Forgery,</hi> and the others are not of a much better Reputation; and their impudent Beha<g ref="char:EOLhyphen"/>viour hath occasioned the Archbishop of <hi>Canterbury,</hi> and the rest of the Bishops, to publish a Declaration of their Sense, con<g ref="char:EOLhyphen"/>cerning the irregularity and scandelous proceedings of those pretended: Clergy<g ref="char:EOLhyphen"/>men, it being contrary to the Rubriok of the Church of <hi>England,</hi> as by Law esta<g ref="char:EOLhyphen"/>blished.</p>
+            <p>On <hi>Tuesday</hi> the 21st. <hi>ult.</hi> in the morning came on the Trial of Brigadeer <hi>Ambrose Rookwood,</hi> at the <hi>Kings-Bench</hi> Bar; the Evi<g ref="char:EOLhyphen"/>dence against him were Capt <hi>Porter</hi> and Mr. <hi>Harris,</hi> the fact was proved very clear against him, so that he was Convicted, though he had Councel allowed him, ac<g ref="char:EOLhyphen"/>cording to the late Act of Parliament, to regulate Trials in Case of High Treason, Sir <hi>Bartholomew Shoar</hi> was one of the Ora<g ref="char:EOLhyphen"/>cles that Argued for the Prisoner, and took upon him to bespatter Capt. <hi>Porter</hi> with several Reffections, which he could not prove, which did not become a Gen<g ref="char:EOLhyphen"/>tleman, thinking by that means to inva<g ref="char:EOLhyphen"/>lidate his Evidence. This <hi>Rockwood</hi> is of an ancient Family in <hi>Suffolk,</hi> but it is no news for that Name to be concerned in hellish black Conspiracies, for I find by History that one of his Predecessors was Executed, for being a Contriver of the Gun-Powder Treason Plot. I might have said as much of <hi>Charnock,</hi> for I find that one of his Name, with 13 others, were concerned in a Plot of this nature, against the Life of that famous Princess, Queen <hi>Elizabeth,</hi> of ever blessed Memory, for which he, and they, were Executed;</p>
+            <p>On <hi>Tuesday</hi> the 21st. <hi>ult.</hi> in the After<g ref="char:EOLhyphen"/>noon came on the Trial of Mr. <hi>Charles Cranburn</hi> at <hi>Westminster,</hi> the Evidence against him were Captain <hi>Porter</hi> and <hi>Pendergrass,</hi> and after he, and his Councel, had said all that they had to say, they Ju<g ref="char:EOLhyphen"/>ry brought him in Guilty. He behaved himself very impudently, both at his Ex<g ref="char:EOLhyphen"/>amination and his Trial, in several mat<g ref="char:EOLhyphen"/>ters which I might instance, if it were proper.</p>
+            <p>The next day being <hi>Wednesday</hi> the 22d. Major <hi>Lowick</hi> came to his Tryal; the Judges and Councel were the same as the day before, and the Evidence were Mr. <hi>Harris,</hi> Mr. <hi>Bertram</hi> and Mr. <hi>Fisher,</hi> and af<g ref="char:EOLhyphen"/>ter a fair Trial he was found Guilty: He behaved himself decently, and appears to be a <hi>Yorkshire</hi> Gentleman; of an ancient Family. The same Afternoon they all three received Sentence of Death, as in Cases of High Treason, and were reman<g ref="char:EOLhyphen"/>ded to <hi>Newgan.</hi> Capt. <hi>Knightly</hi> was to have been Tried with them, but that he was Indicted by a wrong Christian Name, <hi>viz.
+<pb n="3" facs="tcp:153880:2"/>Christopher,</hi> whereas it ought to have been <hi>Alexander,</hi> however since, the Grand Jury have again found the Bill against him by the right Name, upon the same Evidence.</p>
+            <p>It may not be amiss to tell you how Mr. <hi>Harris</hi> came to be an Evidence, and likewise to acquaint you with some par<g ref="char:EOLhyphen"/>ticular passages in his Depositions. He was a Brigadeer of King <hi>James</hi>'s Guard, and being sent hither before the Discove<g ref="char:EOLhyphen"/>ry of the Plot, and finding himself incer<g ref="char:EOLhyphen"/>ted in the Proclamation, found that he, by discovering any of the Conspirators there<g ref="char:EOLhyphen"/>in mentioned, should have his own par<g ref="char:EOLhyphen"/>don and 1000 <hi>l.</hi> Reward; This induced him to surrender, and to discover <hi>Rookwood</hi> and <hi>Bernardi,</hi> which accordingly he did, and so by that means he was under no Confinement; and indeed it may be truly said of him, That he has laid this Plot more home to King <hi>James,</hi> than any thing that has been said before on that Subject, as you may see here; for he Deposed, That he was on the 14th of <hi>January,</hi> N.S. at St. <hi>Germains En lay;</hi> And after Dinner, King <hi>James</hi> told him (Col. <hi>Parker</hi> being present) That he had a kindness for him, therefore he must go for <hi>England,</hi> where he should receive Orders and Subsistance from Sir <hi>George Barcl<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y;</hi> to whom said King <hi>James,</hi> I have given my Commissi<g ref="char:EOLhyphen"/>on, which he is to Execute, and having told him how to find Sir <hi>Geo.</hi> he took his leave, and Mr. <hi>Caryl</hi> Secretary to the late Queen, gave him 10 Pistols to de<g ref="char:EOLhyphen"/>fray his Expences, Col. <hi>Parker</hi> was then with him, he came to <hi>Calais,</hi> where he was 8 or 9 Days wind-bound; but all that while he was treated by the <hi>French</hi> President, after that he came to <hi>London,</hi> where he met the Conspirators, and was allowed 5 <hi>s. per</hi> Day. Subsistance, with<g ref="char:EOLhyphen"/>out a Horse, and 6 when he had a Horse, which was paid him by one <hi>Holmes,</hi> by Order of Sir <hi>George;</hi> but when he un<g ref="char:EOLhyphen"/>derstood he was to have been one of the Assassinators, he did not approve of it, neither did Brigadeer <hi>Rookwood;</hi> but Ma<g ref="char:EOLhyphen"/>jor <hi>Lowick,</hi> when the Matter was debated said, That he would obey Orders, which word in a great measure was the occasion of his Condemnation. King <hi>James</hi> or<g ref="char:EOLhyphen"/>dered him to go by the name of <hi>Jenkins,</hi> and told him of the borrowed names the others were to go by; Yet for all this the Zealots for King. <hi>James</hi>'s Interest, will not believe that he knew of it, nothing can be plainer to all unbyased Men; and as for the <hi>French</hi> King let him pretend whatever he pleases, it is certain, that he was at the Root of this Bloody Tragedy; but it may be properly said of him, <hi>That he is the Root of all Evil,</hi> and the disturber of all <hi>Christendom,</hi> his Ambition being without limit or bounds; for he is at War with most <hi>Christian</hi> Princes, and has made an Alliance with the Grand <hi>Turk,</hi> by which he has promised to furnish him with Experienced Officers, and Engi<g ref="char:EOLhyphen"/>neers; 800000 Crowns <hi>per Annum</hi> Pen<g ref="char:EOLhyphen"/>tion, as we may properly call it, to the Grand Seignior; besides what his Am<g ref="char:EOLhyphen"/>bassadour gives under hand to the Prime <hi>Visier,</hi> the <hi>Divan,</hi> the <hi>Sultana, &amp;c.</hi> He also furnishes them with Ships of War, and supplies the Emperor of <hi>Marocco</hi> with Officers, and Engineers, to be em<g ref="char:EOLhyphen"/>ploied in the Siege of <hi>Ceuta;</hi> and does abundance of other things not fit for a <hi>Christian</hi> Prince; he has for several Years past promised the Grand Seignior to pe<g ref="char:EOLhyphen"/>netrate the Empire, even to the banks of the <hi>Danube,</hi> with an Army of 100000 Men, under the Command of the <hi>Dauphin;</hi> and if he had been able to perform what he promised, doubtless he would have put on the <hi>Turkish</hi> Helmet; and perhaps take for a Wife one of <hi>Mahomets</hi> Daugh<g ref="char:EOLhyphen"/>ters, which would have more strictly knitted their Alliance. But 'tis no new thing for <hi>France</hi> to make an Alliance with the <hi>Turks,</hi> as you may see in <hi>Rastal</hi>'s Statutes made in the 35th. year of <hi>Henry</hi> the 8th. chap. 12th. where you will find an Act of Parliament, Intituled an Act for the Kemission of the same, in the pre<g ref="char:EOLhyphen"/>amble, of which among other things, we read the following memorable Relation touching <hi>Francis</hi> the first, the then <hi>French</hi> King.</p>
+            <p>And notwithstanding that His Majesty of his Inestimable Goodness, hath of long time like a Charitable Loving and most vertuous Prince, tendered, trusted, loved and favoured <hi>Francis</hi> now the <hi>French</hi> King, and shewed unto him divers and sundry inestimable Gratuities and Amities, as well by redeeming him and his Children
+<pb n="4" facs="tcp:153880:3"/>out of Captivity and Thraldom, as also relieving him of his Poverty by divers and sundry Presents and Lones of notable Summs of Money to him made, trusting thereby to have preserved and continued Love, Amity, Peace and Concord be<g ref="char:EOLhyphen"/>tween the Regions of <hi>England</hi> and <hi>France.</hi>
+            </p>
+            <p>Yet the same <hi>French</hi> King, nothing re<g ref="char:EOLhyphen"/>garding his Honour, Oath, Truth, Pro<g ref="char:EOLhyphen"/>mise and Fidelity made unto His Maje<g ref="char:EOLhyphen"/>sty, hath not only most ungratefully, and wrongfully withdrawn from his said Ma<g ref="char:EOLhyphen"/>jesty the due rightful and accustomed Pension always heretofore used (as of right) to be paid to His Majesty and this Realm, out of the Realm of <hi>France;</hi> but also hath inserred and done unto His Ma<g ref="char:EOLhyphen"/>jesty, and his loving Subjects, many other right, great and intollerable Displeasures, Wrongs, Injuries and Damages, and for maintainance thereof, hath confederated himself with the great <hi>Turk,</hi> common E<g ref="char:EOLhyphen"/>nemy to all Christendom, pretending thereby to satisfie his own. Ambitious Mind, and tending to put Universal trou<g ref="char:EOLhyphen"/>ble and Division in all the Monarchy of Christendom, and subdue the Realm, of <hi>England</hi> to his Power and Subjection.</p>
+            <p>I find also that this <hi>Francis</hi> the <hi>French</hi> King invited the Grand Seignior to in<g ref="char:EOLhyphen"/>vade <hi>Italy,</hi> which accordingly he did, with his Fleet Ravaged all the Coast, and car<g ref="char:EOLhyphen"/>ried 40000 Christians, Men Women and Children into Slavery, besides other De<g ref="char:EOLhyphen"/>structions as you may see at large in the <hi>Turkish</hi> History in the Reign of <hi>Soliman</hi> the Magnificent. 'Tis true these things I have inserted to inform the World of the unchristian-like Actions of <hi>France,</hi> both now and at all times, though it be a Di<g ref="char:EOLhyphen"/>gression from the intent of this Paper, but it runs parallel to the present time: Now if all these matters be well considered, what might the Adherents of the late King <hi>James</hi> expect from <hi>Lewis</hi> the 14th. if he had conquered <hi>England,</hi> nothing but Sla<g ref="char:EOLhyphen"/>very; for in reason they could not expect a better Treatment from him, then his own Subjects, who are the greatest Slaves in the World to him, no, they cannot say that any thing is their own, his Govern<g ref="char:EOLhyphen"/>ment is so Arbitrary.</p>
+            <p>Now it will not be amiss to return to the matter in hand, and tell you some<g ref="char:EOLhyphen"/>what more of the present Conspiracy. On <hi>Tuesday</hi> the 28th. of <hi>April,</hi> the Grand Jury found the Bill of High Treason against <hi>Peter Cook,</hi> Esq; Son to Sir <hi>Miles Cook.</hi> On <hi>Thursday</hi> the 30th. of <hi>April,</hi> Capt. <hi>Knight<g ref="char:EOLhyphen"/>ly</hi> (against whom a Bill of High Treason, was found before) was Arraigned at the King's Bench Bar, but being very Sick, the Court appointed his Tryal not to come on till the 20th. of this Instant <hi>May.</hi>
+            </p>
+            <p>On <hi>Wednesday</hi> the 29th. of <hi>April,</hi> Bri<g ref="char:EOLhyphen"/>gadeer <hi>Rookwood,</hi> Major <hi>Lowick,</hi> and Mr <hi>Cranburn</hi> were conveyed in a Sledge to <hi>Tyburn,</hi> where they were Executed as in Cases of High Treason; the first 2 dyed Roman. Catholicks, and the Latter a Pro<g ref="char:EOLhyphen"/>testant, they owned every thing that was sworn against them, and were penitent, particularly Major <hi>Lowick</hi> who expressed great Sorrow for being concerned in such a Fact. Mr. <hi>Cranburn</hi> though he owned all the design, yet he thought it was his Duty to assist King <hi>James,</hi> and said much more to that purpose.</p>
+            <p>You may please to remember, that in <hi>October</hi> last, when His Majesty came from <hi>Flanders,</hi> three Persons were taken in <hi>Southwark</hi> and committed to Prison, where they are still, they being accused of a de<g ref="char:EOLhyphen"/>sign to shoot the King as he came over <hi>London-Bridge,</hi> but they being not tryed, I shall say no more on this Subject, tho 'tis too true that the Enemies of the King and Government have taken all occasions to take him off, and foment a Rebellion, encourage a Foreign Invasion, <hi>&amp;c.</hi> but hitherto they have been Detected, and as you have already seen several of them have suffered.</p>
+            <p>Certainly the <hi>French</hi> King and the late King <hi>James</hi> are degenerated from the race of Kings and Princes, who always abhor<g ref="char:EOLhyphen"/>ed Assassination, and therefore I will quote some Instances in the time of the Gun-powder Plot here in <hi>England,</hi> some of those Hellish crew concerned therein escaped into <hi>Spain;</hi> where they behaved themselves worse than Infidels, by pro<g ref="char:EOLhyphen"/>posing to subject their Native Country to the <hi>Spanish</hi> Yoak, and as an Expedient to effect it, they offered to take off King <hi>James</hi> the first the then King of <hi>England,</hi> which <hi>Phillip</hi> King of <hi>Spain</hi> rejected, ex<g ref="char:EOLhyphen"/>pressing
+<pb n="5" facs="tcp:153880:3"/>his Abhorrence of such a design: This had such an influence over King <hi>James,</hi> that he immediately concluded a Peace with <hi>Spain.</hi> It was also amongst the Romans, deemed abominable to As<g ref="char:EOLhyphen"/>sassinate a private Man, much more a great King. King <hi>Charles</hi> would not a<g ref="char:EOLhyphen"/>gree to permit <hi>Oliver Cromwell</hi> to be Assa<g ref="char:EOLhyphen"/>ssinated, tho he was an Usurper; the truth of it is, Assassination was at all times con<g ref="char:EOLhyphen"/>trived by the Jesuites and Priests, who never stick at any thing to remove such Obstacles as are in their way<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and indeed it has been so in all times, <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rys do agree, and I cannot forbe<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> note that King <hi>John</hi> being thought no favourer of the high flown Roman Clergy in time of Popery, was in revenge at last poison<g ref="char:EOLhyphen"/>ed by a Monk, and they do take all occa<g ref="char:EOLhyphen"/>frons to promote Interest, though it be to the utter ruin of all Christendom be<g ref="char:EOLhyphen"/>sides; and in a word, we may say as much of our Non-jurant Ministers, who would sacrifice 3 Kingdoms to gratifie their own Ambition. What I have said here is be<g ref="char:EOLhyphen"/>yond Contradiction, therefore I shall in this place insert a remarkable passage.</p>
+            <p>Amongst the many Providences that have attended His Sacred Majesty, which seems to point and design him a Darling of Heaven. I shall insert one Passage in the Prophet <hi>Daniel,</hi> which to the curious, will be extreamly worth Observation, which seems peculiarly prophetick to King <hi>William.</hi>
+            </p>
+            <p>Daniel 12th. vers. 11th. and 12th. <hi>And from that time that the dayly Sacrifice shall be taken away, and the Abomination that mak<g ref="char:EOLhyphen"/>eth desolate set up, there shall be a Thousand Two Hundred and Ninety Days. Blessed is he that waiteth and cometh to the Thousand Three Hundred and Five and Thirty days.</hi>
+            </p>
+            <p>'Tis remarkable that from <hi>April</hi> the 23d. 1685. the day of King <hi>James</hi> his Corona<g ref="char:EOLhyphen"/>tion, to the 8th. of <hi>November,</hi> 1688. when King <hi>William</hi> landed at <hi>Torbay,</hi> is exactly 1290 days, and from his landing to his coming to St. <hi>James</hi> is just 45 days, which added to the former number, makes com<g ref="char:EOLhyphen"/>pleatly the last number, <hi>viz.</hi> 1335. even to one day.</p>
+            <p>Now if without Superstition, we may suppose so remote an Oracle in so distant an <hi>Aena</hi> of the word may look as far as this latter Age; it appears very strange especially, in so vast a number of days, and that upon a double reckoning it should be exactly adopt to our happy Re<g ref="char:EOLhyphen"/>volution. If the Critical shall object our commencing our date from King <hi>James</hi> his Coronation, and not his Accession to the Throne, to settle our account, we can on<g ref="char:EOLhyphen"/>ly, answer, That the beginning of his Reign, like that of <hi>Nero,</hi> seemed to smile upon us, besides the Coronation day, which Installs the King, the Anointed of God, may properly be recknoned the Consumma<g ref="char:EOLhyphen"/>tion of Regal Power; that Royal Autho<g ref="char:EOLhyphen"/>rity which enabled him to set up the Abo<g ref="char:EOLhyphen"/>mination mentioned in the Text.</p>
+            <p>Sir <hi>George Barclay,</hi> the Lord <hi>Montgomery,</hi> Sir <hi>John Fenwick,</hi> Major <hi>Holmes,</hi> and others, mentioned in the Proclamations, are not yet taken, notwithstanding the vigilance of the Government to apprehend them. A Pardon is passed the Seals for Captain <hi>Porter,</hi> Mr. <hi>Pendergrass,</hi> Monsieur <hi>de la Rue</hi> and Mr. <hi>Harris,</hi> and his Majesty has been pleased to give Mr. <hi>Pendergrass,</hi> who was the first Discoverer, 3000 <hi>l.</hi> in money, and settled upon him 500 <hi>l. per Amium</hi> for ever; the others are to have Pensions, ac<g ref="char:EOLhyphen"/>cording to their Deserts.</p>
+            <p>Mr. <hi>Peter Cook</hi> was Arraigned on <hi>Monday</hi> the 4th. Instant, at the <hi>Ola Batly,</hi> for con<g ref="char:EOLhyphen"/>triving, with Sir <hi>John Friend,</hi> to send <hi>Char<g ref="char:EOLhyphen"/>nock</hi> into <hi>France,</hi> to sollicite the sending o<g ref="char:EOLhyphen"/>ver foreign Forces to Invade the Realm of <hi>England,</hi> and subvert the Government, and for buying and procuring Arms, <hi>&amp;c.</hi> He Pleaded, Not Guilty, his Tryal was ordered to commence on <hi>Saturday,</hi> the 9th. of <hi>May,</hi> but adjourned to the 13th.</p>
+            <p>Some of the Conspirators that were in Custody meerly on Suspicion, are either Discharged, or Admitted to Bail, and I believe others will suddainly, if nothing appears against them, the Government be<g ref="char:EOLhyphen"/>ing very moderate to them.</p>
+            <p>The Associations are almost gone thro' all the Counties, Corporations and Socie<g ref="char:EOLhyphen"/>ties of this Kingdom; they have likewise signed it in <hi>Scotland</hi> and <hi>Ireland,</hi> as have also our Officers and Merchants beyond Sea: Nay, even Feveral <hi>Roman Catholicks</hi> have signed it, and have declared their Abhorrence of the Assassination. Yet <hi>Lewis</hi> the 14th, though King <hi>William</hi> had given
+<pb n="6" facs="tcp:153880:4"/>him an Account some time since of a De<g ref="char:EOLhyphen"/>sign to poison him, had neither the Ho<g ref="char:EOLhyphen"/>nour nor Honesty to acquaint his Majesty with this horrid Design, but on the con<g ref="char:EOLhyphen"/>trary, ordered publick Prayers in all the Churches of <hi>France</hi> for the Success of King <hi>James,</hi> and his Undertakings, and he no<g ref="char:EOLhyphen"/>tisied the same to all the Foreign Courts which his Ministers had Access to, even to his Brother the Grand Turk, I mean, the <hi>Grand Seignior,</hi> who, on that occasion, had his Forces in motion in <hi>Sclavonia,</hi> thinking the Emperor's Court would have been in some confusion upon so great a Blow; and indeed it appears that the <hi>French</hi> King, if matters had succeeded, was to have come in Person to form the siege of <hi>Namur;</hi> but truly when he found the Plot had miscarried, he thought fit to stay at <hi>Versailes</hi> to be cherished by Ma<g ref="char:EOLhyphen"/>dam <hi>Maintenon,</hi> where he soon received the News of the burning of his Magazine at <hi>Givet,</hi> which he had been amassing there for several months; this was a great mortification to him. Now, the <hi>French</hi> King labours to make the world believe, that he knew nothing of this Conspiracy, saying, <hi>Upon the Word of a King, and the Faith of a Man, he had not the least Knowledge of it,</hi> but this is no otherwise than his usual Rodomantade.</p>
+            <p>I cannot for bear to mention a Passage which happened at St. <hi>Gale</hi> in <hi>Switzerland,</hi> the <hi>Sunday</hi> before and after they had no<g ref="char:EOLhyphen"/>tice of the Discovery of the Conspiracy in <hi>England;</hi> a <hi>Bernardin</hi> Friar preached, and took occasion, he being one of the Emis<g ref="char:EOLhyphen"/>saries of <hi>France,</hi> to tell his Auditors that it behoved them to pray, for there was a Cake in the pan, which, if well baked, all the world should tast of it; but the <hi>Sun<g ref="char:EOLhyphen"/>day</hi> following he preached on the same subject, and told them, That verily the Devil had stirred the fire too much un<g ref="char:EOLhyphen"/>der the pan, and had burnt the Cake which he mentioned, yet he exhorted them to pray. By this it is not doubted, but that this Oracle had notice of the Design, and thought fit to mention it in a disguise manner.</p>
+            <p>Now I think we may properly say, that the Government have discovered the whole Conspiracy, which we may attri<g ref="char:EOLhyphen"/>bute to Divine Providence, who has al<g ref="char:EOLhyphen"/>ways protected His Majesty against all his Enemies Designs. Most people are of Opinion that King <hi>James</hi> was glad his Enterprize of Invasion was become Abor<g ref="char:EOLhyphen"/>tive, least he should have been obliged to hazard his Person, which he doth not love to expose, if we may believe what has been said of him, and particularly by General <hi>Morgan</hi> and Admiral <hi>Jourdan;</hi> the first said, that he took him Prisoner at <hi>Dunkirk,</hi> he being then Duke of <hi>York,</hi> and <hi>Morgan</hi> a General under <hi>Oliver;</hi> and when he was brought to him, he fell down of his Knees and cryed, so that <hi>Morgan</hi> was ashamed that a King's Son and his Countryman should appear so faint hearted, and being willing to hide it. <hi>Morgan</hi> did not detain him, but gave him his Liberty. <hi>Jourdan</hi> said, that truly when he was Engaged with the <hi>Dutch</hi> at Sea, he was in such Consternation, tho barracaded with Cables, so that nothing could hurt him; that he shifted from ship to ship every Moment, and sent Messages every instant to let <hi>Jourdan</hi> know what danger he was exposed to, and <hi>Jourdan</hi> has declared that his Cowardize was the occsion of losing two glorious Advantages over the <hi>Dutch</hi> at Sea. It may be properly added to his personal Valour, his precipate Retreats from <hi>Salis<g ref="char:EOLhyphen"/>bury,</hi> and the <hi>Boyne,</hi> as also out of the King<g ref="char:EOLhyphen"/>doms of <hi>England</hi> and <hi>Ireland,</hi> yet the <hi>Ja<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bites</hi> adores him, and mightily applauds him for a Heroe.</p>
+            <p>I shall say no more on this subject, but conclude with inserting the List of the Prisoners, which are as followeth, <hi>viz.</hi>
+            </p>
+            <list>
+               <head>In the TOWER.</head>
+               <item>E. of <hi>Aylsbury,</hi> Lord <hi>Brudenall,</hi> since Discharged.</item>
+               <item>Mr. <hi>Bellassis,</hi> since Dis<g ref="char:EOLhyphen"/>charged.</item>
+               <item>Lord <hi>Ross.</hi>
+               </item>
+               <item>
+                  <hi>Barnard Howard,</hi> Esq; Collonel <hi>Clifford,</hi>
+               </item>
+               <item>Dr. <hi>Lake,</hi>
+               </item>
+               <item>Mr. <hi>Buckley,</hi>
+               </item>
+            </list>
+            <list>
+               <head>Since my last these following,</head>
+               <item>Col. <hi>Griffin,</hi>
+               </item>
+               <item>Col. <hi>Tempest,</hi>
+               </item>
+               <item>Lord <hi>Forbus,</hi>
+               </item>
+               <item>Sir <hi>Philip Constable</hi>
+               </item>
+               <item>Mr. <hi>Browne.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="7" facs="tcp:153880:4"/>
+               <head>In NEWGATE.</head>
+               <item>E. of <hi>Castlemain,</hi> up<g ref="char:EOLhyphen"/>on an <hi>Outlary.</hi>
+               </item>
+               <item>
+                  <hi>William Walbanck,</hi>
+               </item>
+               <item>
+                  <hi>Tho. Bartram,</hi>
+               </item>
+               <item>
+                  <hi>Robert Ferguson,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Nolun,</hi>
+               </item>
+               <item>
+                  <hi>Zackariah Sinko,</hi>
+               </item>
+               <item>
+                  <hi>George Higgins,</hi>
+               </item>
+               <item>
+                  <hi>John Seagravi,</hi>
+               </item>
+               <item>
+                  <hi>Chri. Knightly,</hi>
+               </item>
+               <item>Mr. <hi>Davis,</hi>
+               </item>
+               <item>Lieut. <hi>Sherburn,</hi>
+               </item>
+               <item>
+                  <hi>David Lothorpi,</hi>
+               </item>
+               <item>
+                  <hi>Edward White,</hi>
+               </item>
+               <item>
+                  <hi>William Mason,</hi>
+               </item>
+               <item>
+                  <hi>John Girling,</hi>
+               </item>
+               <item>
+                  <hi>B<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ill Higgins,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Higgins,</hi>
+               </item>
+               <item>
+                  <hi>Henry Fitzpatrick,</hi>
+               </item>
+               <item>
+                  <hi>Edmund Lee,</hi>
+               </item>
+               <item>
+                  <hi>Tho. Horne,</hi> was com<g ref="char:EOLhyphen"/>mitted for <hi>High Trea<g ref="char:EOLhyphen"/>son,</hi> in concealing and harbouring Major <hi>Lowick</hi> in his House.</item>
+               <item>
+                  <hi>John Veal</hi> alias <hi>Vienne,</hi>
+               </item>
+               <item>
+                  <hi>Forster Collingwood,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Combs,</hi>
+               </item>
+               <item>
+                  <hi>William Boyce,</hi>
+               </item>
+               <item>
+                  <hi>Peter Co<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k,</hi>
+               </item>
+               <item>
+                  <hi>Christopher Davis,</hi>
+               </item>
+               <item>Sir <hi>Roger Le'Strange,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Wilson,</hi>
+               </item>
+               <item>
+                  <hi>Cardel Goodman,</hi>
+               </item>
+               <item>
+                  <hi>Charles Edwards,</hi>
+               </item>
+               <item>Capt. <hi>William Stow,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Trevor,</hi>
+               </item>
+               <item>
+                  <hi>James Enbanck,</hi>
+               </item>
+               <item>— <hi>Hungat,</hi>
+               </item>
+               <item>— <hi>Bernardi,</hi>
+               </item>
+               <item>
+                  <hi>Robert Cassels,</hi>
+               </item>
+               <item>Sir <hi>John Knight,</hi>
+               </item>
+               <item>
+                  <hi>Robert Meldrum,</hi>
+               </item>
+               <item>
+                  <hi>Robert Blackburne,</hi>
+               </item>
+               <item>
+                  <hi>James Chambers.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Since my last, these have been brought into <hi>Newgate,</hi> on Ac<g ref="char:EOLhyphen"/>count of the Plot.</head>
+               <item>
+                  <hi>Thomas Cappock,</hi>
+               </item>
+               <item>
+                  <hi>Owen Silver,</hi>
+               </item>
+               <item>
+                  <hi>William-Symons,</hi>
+               </item>
+               <item>
+                  <hi>Adrian Moor,</hi> Ensign</item>
+               <item>
+                  <hi>William Berkenhead,</hi>
+               </item>
+               <item>
+                  <hi>John Budgin,</hi>
+               </item>
+               <item>
+                  <hi>John Rolph,</hi>
+               </item>
+               <item>
+                  <hi>John Hare,</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Shadereck Cook</hi>
+                     </item>
+                     <item>
+                        <hi>William Sn<gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                  </list> Mini<g ref="char:EOLhyphen"/>sters.</item>
+               <item>
+                  <hi>William Collins,</hi>
+               </item>
+               <item>Capt. <hi>The Stubbs,</hi>
+               </item>
+               <item>
+                  <hi>Gustav, Greed</hi> brought from <hi>Rochester, 27th.</hi> of <hi>April.</hi>
+               </item>
+               <item>
+                  <hi>Thom. Perkins,</hi>
+               </item>
+               <item>
+                  <hi>B<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>net Davis,</hi> alias <hi>Dauson</hi> and <hi>Isaac Bul<g ref="char:EOLhyphen"/>lock,</hi> all 3 brought from <hi>Leicester,</hi> 15th April.</item>
+               <item>Mr. <hi>Donolan,</hi>
+               </item>
+               <item>Mr. <hi>Branfield.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Executed out of <hi>NEWGATE.</hi>
+               </head>
+               <item>
+                  <hi>Robert Charnock,</hi>
+               </item>
+               <item>
+                  <hi>The Keys,</hi> alias <hi>Crabb,</hi>
+               </item>
+               <item>
+                  <hi>Edward King,</hi>
+               </item>
+               <item>Sir <hi>Will. Perkins,</hi>
+               </item>
+               <item>Sir <hi>John Friend,</hi>
+               </item>
+               <item>
+                  <hi>Ambrose Rookwook,</hi>
+               </item>
+               <item>Major <hi>Lowick,</hi>
+               </item>
+               <item>
+                  <hi>Charles Cranburne.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In the GATE-HOUSE.</head>
+               <item>DR. <hi>Monroe,</hi>
+               </item>
+               <item>Dr. <hi>Mackindash,</hi>
+               </item>
+               <item>Captain <hi>Loutham,</hi>
+               </item>
+               <item>Mr. <hi>Lewis,</hi> Gentle<g ref="char:EOLhyphen"/>man of the Horse to the E. of <hi>Feversham.</hi>
+               </item>
+               <item>Captain <hi>Binns,</hi>
+               </item>
+               <item>Captain <hi>Billingham,</hi>
+               </item>
+               <item>Mr. <hi>Poney,</hi>
+               </item>
+               <item>Collonel <hi>John H<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>les,</hi>
+               </item>
+               <item>Esquire <hi>Elliot,</hi>
+               </item>
+               <item>Esquire <hi>Biggs,</hi>
+               </item>
+               <item>Mr. <hi>Graham,</hi>
+               </item>
+               <item>Esquire <hi>Scroop,</hi>
+               </item>
+               <item>Captain <hi>Adams,</hi>
+               </item>
+               <item>
+                  <hi>Mr Wray,</hi>
+               </item>
+               <item>Captain <hi>Brian,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Lashly,</hi>
+               </item>
+               <item>Mr. <hi>Plunket,</hi>
+               </item>
+               <item>Captain <hi>Blair,</hi>
+               </item>
+               <item>Captain <hi>Evans,</hi>
+               </item>
+               <item>Mr. <hi>Mayor,</hi>
+               </item>
+               <item>Mr. <hi>Cudrow,</hi>
+               </item>
+               <item>
+                  <hi>Da. Paire,</hi>
+               </item>
+               <item>Captain <hi>Richardson,</hi>
+               </item>
+               <item>Mr. <hi>Birkenhead,</hi>
+               </item>
+               <item>Mr. <hi>Dale Close,</hi>
+               </item>
+               <item>Mr. <hi>Bateman,</hi>
+               </item>
+               <item>
+                  <hi>J. Redmain,</hi> a Printer.</item>
+               <item>Capt. <hi>Will. Courtney,</hi>
+               </item>
+               <item>Ensign <hi>Tooley,</hi>
+               </item>
+               <item>Capt. <hi>Hen. Courtney,</hi>
+               </item>
+               <item>Capt. <hi>James Courtney,</hi>
+               </item>
+               <item>
+                  <hi>Paul Robinson,</hi>
+               </item>
+               <item>Mr. <hi>Memoransey</hi> Spie.</item>
+               <item>Captain <hi>Ridly,</hi>
+               </item>
+               <item>Mr. <hi>Mathews,</hi> a Priest</item>
+               <item>Another Mr. <hi>Mathews,</hi> a suspected Priest</item>
+               <item>Mr. <hi>Ramsey,</hi>
+               </item>
+            </list>
+            <list>
+               <head>Since my last these following, <hi>viz.</hi>
+               </head>
+               <item>Mr. <hi>Fleetwood</hi>
+               </item>
+               <item>Mr. <hi>Parefoy</hi>
+               </item>
+               <item>Mr. <hi>Cornwall<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi>
+               </item>
+               <item>Captain <hi>Ryca<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Mr. <hi>Trapps</hi>
+               </item>
+               <item>Mr. <hi>Serjeant</hi>
+               </item>
+               <item>Mr. <hi>Hibbord</hi>
+               </item>
+               <item>Mr. <hi>Pettit</hi>
+               </item>
+               <item>Mr. <hi>Gerny</hi>
+               </item>
+               <item>Mr. <hi>Stutely</hi>
+               </item>
+               <item>Mr. <hi>Gerrard</hi>
+               </item>
+               <item>Mr. <hi>Plowden.</hi>
+               </item>
+               <item>Mr. <hi>Henry Cour<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ny</hi>
+               </item>
+               <item>Mr. <hi>Wilcox,</hi> a Minister</item>
+            </list>
+            <list>
+               <pb facs="tcp:153880:5"/>
+               <head>In the FLEET.</head>
+               <item>THe Hon. Coll. <hi>Tuf<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rt,</hi> since Discharged.</item>
+               <item>The Honourable Mr. <hi>Constable,</hi>
+               </item>
+               <item>Sir <hi>Richard White,</hi>
+               </item>
+               <item>Sir <hi>Richard Hart,</hi>
+               </item>
+               <item>Coll. <hi>Graham,</hi> Privy Purse to the late K. <hi>James.</hi>
+               </item>
+               <item>Collonel <hi>Dungan,</hi>
+               </item>
+               <item>Captain <hi>Rider,</hi>
+               </item>
+               <item>Captain <hi>Richardson,</hi>
+               </item>
+               <item>Captain <hi>Murray,</hi>
+               </item>
+               <item>Mr. <hi>Baron</hi> a Minister.</item>
+               <item>Mr. <hi>Mitton,</hi>
+               </item>
+            </list>
+            <list>
+               <head>Since my last these following, <hi>viz.</hi>
+               </head>
+               <item>Sir <hi>James Simmons</hi>
+               </item>
+               <item>
+                  <hi>Robert Howard</hi> Esq;</item>
+               <item>Mr. <hi>Charles Fairsax</hi>
+               </item>
+               <item>Mr. <hi>Brandon</hi>
+               </item>
+               <item>Mr. <hi>Roper</hi>
+               </item>
+               <item>Mr. <hi>Manack</hi>
+               </item>
+               <item>Mr. <hi>Ansell</hi>
+               </item>
+               <item>Mr. <hi>Bano.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In the KING's-BENCH.</head>
+               <item>
+                  <hi>Benedict Hall,</hi> Esq;</item>
+               <item>
+                  <hi>John Wyche,</hi> Esq;</item>
+               <item>Dr. <hi>John Pattison,</hi> late <hi>Thomas Edwards.</hi> Arch-Bp. of <hi>Glasco.</hi>
+               </item>
+               <item>
+                  <hi>William Purefoy,</hi> Esq;</item>
+               <item>Counsellor <hi>Thornbery.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Braightwait.</hi>
+               </item>
+               <item>Capt. <hi>Symons</hi> by Order of Council removed from <hi>Newgate</hi> to the <hi>King's-Bench.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In the MARSHALSEA.</head>
+               <item>Sir <hi>Roger L'Estrange,</hi>
+               </item>
+               <item>Major <hi>Holmes.</hi>
+               </item>
+               <item>Captain <hi>Bark.</hi>
+               </item>
+            </list>
+            <p>Confined to their own Houses, the Earls of <hi>Litchfield</hi> and <hi>Peterborough.</hi>
+            </p>
+            <div type="list_of_prisoners">
+               <head>In the Custody of MESSENGERS.</head>
+               <p>
+                  <hi>LOrd</hi> Gerrard <hi>of</hi> Bromley, <hi>Lord</hi> Fairfax, <hi>Sir</hi> Robert Throgmorton, <hi>Sir</hi> Rich. Dutton, <hi>Sir</hi> Ro<g ref="char:EOLhyphen"/>bert Terril, <hi>Dr.</hi> Will. Lloyd, <hi>late Bishop of</hi> Norwick, <hi>Dr.</hi> Ken, <hi>late Bishop of</hi> Bath <hi>and</hi> Wells. Will. Crothy, <hi>Esq; Mr.</hi> Geo-Wesbruck, <hi>Mr.</hi> Johnson, Charles Atherly <hi>Esq; Sir</hi> Cha. Little<g ref="char:EOLhyphen"/>ton, <hi>Mr.</hi> Luche, <hi>Mr.</hi> Peters, <hi>Mr.</hi> Rich. Ellis, <hi>Mr.</hi> Peter Evans, <hi>Mr.</hi> Bryan D<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, <hi>Mr.</hi> John Gour<g ref="char:EOLhyphen"/>don, <hi>Mr.</hi> Alex, Megnien, <hi>Mr.</hi> Rich. Vicker, <hi>Mr.</hi> Geo. Messenger, <hi>Mr.</hi> Oswell, <hi>a Minister, Mr.</hi> Spicks, <hi>a Minister, Mr.</hi> Gilbert Jones, <hi>Mr.</hi> Holeman, <hi>Capt.</hi> Nich. Brown, <hi>Mr.</hi> Will. Rutland, <hi>Capt.</hi> Goodwin, <hi>Mr.</hi> Barret, <hi>Mr.</hi> Bingon, <hi>Mr.</hi> Edw, Harris, <hi>Mr.</hi> tho. Aldred, <hi>Mr.</hi> Rich. Row, <hi>Mr.</hi> Edw. Hayes, <hi>Mr.</hi> Dan. Hopkins, <hi>Mr.</hi> Dav. Medleton, <hi>Mr.</hi> John Hodge, <hi>Capt</hi> Robe<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, <hi>Mr.</hi> Droytons Roberts, <hi>Mr.</hi> Paul Pep<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r, <hi>Mr.</hi> Tho. Marsh, <hi>Mr.</hi> Steph. Lancefield, <hi>Mr.</hi> Will, Monger, <hi>Mr.</hi> G<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. Hambleton, <hi>Mr.</hi> Rog. Massey, <hi>Mrs.</hi> Eliz. Clayton, <hi>Mr.</hi> Geo. Wood, <hi>Mr.</hi> Cha. Newel, <hi>Mr.</hi> Tho. Calloway, <hi>Mr.</hi> Henrick, <hi>Mr.</hi> James Jones, <hi>Mr.</hi> Era. Demorin, <hi>Mr.</hi> John Barrow, <hi>Mr.</hi> Sam. Sals<g ref="char:EOLhyphen"/>hury, <hi>Mr.</hi> Rob. Slingsby, <hi>Mr.</hi> Martin, <hi>Mr.</hi> Godfrey Cross, <hi>Mr.</hi> Tho. Pharron, <hi>Mr.</hi> Law, Brahston, <hi>Mr.</hi> Lewis Richards, <hi>Mr.</hi> James Brew, <hi>Mr.</hi> Richards, <hi>Mr.</hi> Rob. Surua<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, <hi>Mr.</hi> Will. Plumer, <hi>Mr.</hi> Butler, <hi>Mr.</hi> Burk, <hi>Mr.</hi> Burrowt, <hi>Mr.</hi> Gourdon, <hi>Mr.</hi> Jeff. Keiting, <hi>Mr.</hi> Tho. Harris, <hi>Dr</hi> Sam<g ref="char:EOLhyphen"/>bord, <hi>Mr.</hi> Dinerti, <hi>Mr.</hi> Idem, <hi>Mrs.</hi> Idem, <hi>Mr.</hi> Yeomans, <hi>Capt.</hi> Ems, <hi>Mr.</hi> Dav. Burk, <hi>Mr.</hi> John Caraugh, <hi>Mr.</hi> Phill. Fitz-G<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrald, <hi>Mr.</hi> Nich. Lecover, <hi>Mr.</hi> Edw. Fitz-Gerrald, <hi>Mr.</hi> Geo. Macol<g ref="char:EOLhyphen"/>lock, <hi>Mr.</hi> John Corn, <hi>Mr.</hi> West, <hi>Mr.</hi> Mac Adams, <hi>Mr.</hi> Morris Margrate, <hi>Mr.</hi> James F<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gg, <hi>Mr.</hi> Abr. Sling<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or, <hi>Mr.</hi> Edw. Wats, <hi>Mr.</hi> Lewsey, <hi>Mr.</hi> Tho Bucknell, <hi>Mr</hi> Jos. Roche, <hi>Mr.</hi> Doy<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ens, <hi>Mr.</hi> The. Fox, <hi>Mr.</hi> Mark P<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, <hi>Mr.</hi> Pitz Gerrald, <hi>Mr.</hi> John Johnson, <hi>Mr.</hi> Jennings, <hi>Mr.</hi> William Holmes, <hi>Mr.</hi> Lewis Martin, <hi>Mr.</hi>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wick, <hi>Mr.</hi> John Cantrel, <hi>Mr.</hi> Mac Adams, <hi>Mr.</hi> John Tucker, <hi>Mr.</hi> Tho. Sandes, <hi>Mr.</hi> Hugh Harrison, <hi>Mr.</hi> John Charlton, <hi>Mr.</hi> John Wood, <hi>Mr.</hi> Will Wright, <hi>Mr.</hi> Genefer, <hi>Mr.</hi> Bradsha<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>Mr.</hi> Turner, <hi>Mr.</hi> Brown, <hi>Mr.</hi> John Herman, <hi>Mr.</hi> John Ther<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld, <hi>Mr.</hi> Chap<g ref="char:EOLhyphen"/>man, <hi>Mr.</hi> Usher, <hi>Mr.</hi> Will, Ha<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sley, <hi>Mr.</hi> K<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly, <hi>Mr.</hi> Will. Hailes, <hi>Mr.</hi> Will. Obryan, <hi>Mr.</hi> B. Reading, <hi>Mr.</hi> John Col<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man, <hi>three Mr.</hi> Langborns, <hi>Mr.</hi> Cha. Carring<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, <hi>Mr.</hi> Chapman, <hi>Coll.</hi> C<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st, <hi>Mr.</hi> Matthews, <hi>Mr.</hi> Cox, <hi>Mr.</hi> Rigden, <hi>Mr.</hi> Goodchief, <hi>Mr.</hi> Clynelworth, <hi>Mr.</hi> Rich. Rum<g ref="char:EOLhyphen"/>beld, <hi>Mr.</hi> Grant, <hi>Mr.</hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st, <hi>Mr.</hi> Inwood, <hi>Dr.</hi> Gadding, <hi>Mr.</hi> Cast, <hi>Mr.</hi> Brown, <hi>Mrs.</hi> Brown, <hi>Dr.</hi> Johnson, <hi>Mr.</hi> Smithson, <hi>Mr.</hi> D<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w's. <hi>Mr.</hi> Baker, <hi>Mr.</hi> Hardwick, <hi>Dr.</hi> Smith, <hi>Mr.</hi> Massey, <hi>Mr.</hi> Singleton, <hi>Mr.</hi> Brown, <hi>Mr.</hi> W<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st, <hi>Mr.</hi> Willieux, <hi>Mr.</hi> Knight, <hi>Mr.</hi> Cook, <hi>Mr.</hi> Barnes<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey, <hi>Mrs.</hi> Kelly, <hi>Mr.</hi> Geo. Aldred, <hi>Father</hi> King, <hi>Mr.</hi> Harris, <hi>Mr.</hi> Pretyman, <hi>Mr.</hi> Stafford, <hi>Mr.</hi> Wel<g ref="char:EOLhyphen"/>ding, <hi>Mr.</hi> Welding, <hi>Mr.</hi> Hawley, <hi>Mr.</hi> Tho. Taylor, Mr. Francis Cherry <hi>and</hi> Mr. Jarvis Hawton. <hi>Besides these, there are abundance in the County Goals.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>I am Yours,</hi> &amp;c.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Sold by <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1696.</p>
+            <pb facs="tcp:153880:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
